@@ -1,0 +1,14 @@
+C:\Users\Iryna\source\repos\Tag05_WEB\Aufgabe Kartenspiel\bin\Debug\net9.0\Aufgabe Kartenspiel.exe
+C:\Users\Iryna\source\repos\Tag05_WEB\Aufgabe Kartenspiel\bin\Debug\net9.0\Aufgabe Kartenspiel.deps.json
+C:\Users\Iryna\source\repos\Tag05_WEB\Aufgabe Kartenspiel\bin\Debug\net9.0\Aufgabe Kartenspiel.runtimeconfig.json
+C:\Users\Iryna\source\repos\Tag05_WEB\Aufgabe Kartenspiel\bin\Debug\net9.0\Aufgabe Kartenspiel.dll
+C:\Users\Iryna\source\repos\Tag05_WEB\Aufgabe Kartenspiel\bin\Debug\net9.0\Aufgabe Kartenspiel.pdb
+C:\Users\Iryna\source\repos\Tag05_WEB\Aufgabe Kartenspiel\obj\Debug\net9.0\Aufgabe Kartenspiel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iryna\source\repos\Tag05_WEB\Aufgabe Kartenspiel\obj\Debug\net9.0\Aufgabe Kartenspiel.AssemblyInfoInputs.cache
+C:\Users\Iryna\source\repos\Tag05_WEB\Aufgabe Kartenspiel\obj\Debug\net9.0\Aufgabe Kartenspiel.AssemblyInfo.cs
+C:\Users\Iryna\source\repos\Tag05_WEB\Aufgabe Kartenspiel\obj\Debug\net9.0\Aufgabe Kartenspiel.csproj.CoreCompileInputs.cache
+C:\Users\Iryna\source\repos\Tag05_WEB\Aufgabe Kartenspiel\obj\Debug\net9.0\Aufgabe Kartenspiel.dll
+C:\Users\Iryna\source\repos\Tag05_WEB\Aufgabe Kartenspiel\obj\Debug\net9.0\refint\Aufgabe Kartenspiel.dll
+C:\Users\Iryna\source\repos\Tag05_WEB\Aufgabe Kartenspiel\obj\Debug\net9.0\Aufgabe Kartenspiel.pdb
+C:\Users\Iryna\source\repos\Tag05_WEB\Aufgabe Kartenspiel\obj\Debug\net9.0\Aufgabe Kartenspiel.genruntimeconfig.cache
+C:\Users\Iryna\source\repos\Tag05_WEB\Aufgabe Kartenspiel\obj\Debug\net9.0\ref\Aufgabe Kartenspiel.dll
