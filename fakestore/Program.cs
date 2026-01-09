@@ -59,8 +59,11 @@ namespace fakestore
                 switch (format)
                 {
                     case "1":
-                        products.Sort((a, b) => a.title.CompareTo(b.title));
-                        foreach (Product singleProduct in products)
+                         Console.Write("Geben Sie ein Wort zum Suchen ein: ");
+                         string suchTitle = Console.ReadLine();
+                         var result = products.
+                                     Where((a) => (a.title.ToLower().Contains(suchTitle.ToLower())));
+                        foreach (Product singleProduct in result)
                         {
                             System.Console.WriteLine($"{new string(singleProduct.title.Take(60).ToArray()).PadRight(60)} - {singleProduct.price,10}");
                         }
@@ -106,3 +109,4 @@ namespace fakestore
         }
     }
 }
+
