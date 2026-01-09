@@ -1,0 +1,14 @@
+C:\Users\Iryna\source\repos\Tag5_26_preWEB_\fakestore\bin\Debug\net9.0\fakestore.exe
+C:\Users\Iryna\source\repos\Tag5_26_preWEB_\fakestore\bin\Debug\net9.0\fakestore.deps.json
+C:\Users\Iryna\source\repos\Tag5_26_preWEB_\fakestore\bin\Debug\net9.0\fakestore.runtimeconfig.json
+C:\Users\Iryna\source\repos\Tag5_26_preWEB_\fakestore\bin\Debug\net9.0\fakestore.dll
+C:\Users\Iryna\source\repos\Tag5_26_preWEB_\fakestore\bin\Debug\net9.0\fakestore.pdb
+C:\Users\Iryna\source\repos\Tag5_26_preWEB_\fakestore\obj\Debug\net9.0\fakestore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iryna\source\repos\Tag5_26_preWEB_\fakestore\obj\Debug\net9.0\fakestore.AssemblyInfoInputs.cache
+C:\Users\Iryna\source\repos\Tag5_26_preWEB_\fakestore\obj\Debug\net9.0\fakestore.AssemblyInfo.cs
+C:\Users\Iryna\source\repos\Tag5_26_preWEB_\fakestore\obj\Debug\net9.0\fakestore.csproj.CoreCompileInputs.cache
+C:\Users\Iryna\source\repos\Tag5_26_preWEB_\fakestore\obj\Debug\net9.0\fakestore.dll
+C:\Users\Iryna\source\repos\Tag5_26_preWEB_\fakestore\obj\Debug\net9.0\refint\fakestore.dll
+C:\Users\Iryna\source\repos\Tag5_26_preWEB_\fakestore\obj\Debug\net9.0\fakestore.pdb
+C:\Users\Iryna\source\repos\Tag5_26_preWEB_\fakestore\obj\Debug\net9.0\fakestore.genruntimeconfig.cache
+C:\Users\Iryna\source\repos\Tag5_26_preWEB_\fakestore\obj\Debug\net9.0\ref\fakestore.dll
